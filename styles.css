@@ -1,0 +1,28 @@
+.img {
+    height:auto;
+    width: 400px;
+}
+h1 {
+    font-size: 900;
+    font-weight: bold;
+    color: grey;
+}
+
+.intro {
+    color: slategrey;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.meatandbones {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: bisque;
+    background-color: slategray;
+}
+.return {
+    color: black;
+    background-color: red;
+    height: auto;
+    width: 200px;
+}
